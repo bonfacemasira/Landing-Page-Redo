@@ -1,0 +1,81 @@
+body{
+    font-family: 'Nunito', sans-serif;
+}
+
+div.navigation_bar{
+    display: flex;
+    width: 100%;
+}
+
+div.name{
+    flex: 50%;
+}
+
+.moringa{
+    color: #EC4067;
+}
+
+div.menu{
+    text-align: center;
+    font-size: 27px;
+}
+
+ul.menu_list{
+    display: inline-flex;
+    margin: 15px;
+    list-style-type: none;
+}
+
+li{
+    margin-top: 10px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+button.enroll{
+    color: white;
+    background-color: #EC4067;
+    border: none;
+    font-size: 27px;
+    border-radius: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-left: 70px;
+}
+
+
+
+div.not_sure{
+    font-size: 27px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 100px;
+}
+
+p.still_not_sure{
+    color: #EC4067;
+    font-size: 35px;
+}
+
+button.enroll2{
+    color: white;
+    background-color: #EC4067;
+    border: none;
+    font-size: 27px;
+    border-radius: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+span.contact_us{
+    color: #EC4067;
+}
+
+div.designer{
+    color: rgb(63, 59, 59);
+    background-color: rgb(241, 241, 241);
+    text-align: center;
+    font-size: 21px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
